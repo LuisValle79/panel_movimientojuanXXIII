@@ -6,7 +6,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
     const loginMessage = document.getElementById('loginMessage');
 
     // Simple hardcoded credentials for demonstration
-    if (username === 'admin' && password === 'admin123') {
+    if (username === 'valle90' && password === 'jeyko2015') {
         Swal.fire({
             icon: 'success',
             title: '¡Éxito!',
